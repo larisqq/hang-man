@@ -1,0 +1,1 @@
+This is a classic Hangman game implemented in Python using the Tkinter library for a graphical user interface (GUI). The game allows players to guess letters of a hidden word within a limited number of attempts while enjoying various themes and keeping track of scores.
